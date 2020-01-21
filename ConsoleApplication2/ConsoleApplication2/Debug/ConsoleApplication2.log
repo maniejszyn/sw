@@ -1,0 +1,8 @@
+﻿  CPU_1.cpp
+  Unknown compiler version - please run the configure tests and report the results
+m:\dokumenty\studia\pk\iii\sw\systemc\consoleapplication1\consoleapplication2\consoleapplication2\cpu_1.cpp(92): warning C4244: 'argument': conversion from 'sc_dt::uint_type' to 'const int', possible loss of data
+  ConsoleApplication2.cpp
+  Unknown compiler version - please run the configure tests and report the results
+m:\dokumenty\studia\pk\iii\sw\systemc\consoleapplication1\consoleapplication2\consoleapplication2\cpu_1.cpp(92): warning C4244: 'argument': conversion from 'sc_dt::uint_type' to 'const int', possible loss of data
+  Generating Code...
+  ConsoleApplication2.vcxproj -> M:\DOKUMENTY\STUDIA\PK\III\SW\SystemC\ConsoleApplication1\ConsoleApplication2\Debug\ConsoleApplication2.exe
